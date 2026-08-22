@@ -1,0 +1,46 @@
+# CCA MUN INTELLIGENCE BRIEF — KINGDOM OF MOROCCO
+## UNGA (First Committee — Disarmament & International Security)
+### Agenda: "Evaluating the need for a binding international convention on the regulation of Lethal Autonomous Weapons Systems (LAWS)"
+**Simulation date: 2026 (prepared 22 August 2026) | Classification: WAR ROOM EDITION | Prepared with the CCA MUN Command Center Peak skill suite (41 skills loaded and applied)**
+
+> **Evidence labels used throughout (per MUN Core Protocol):** `[VERIFIED FACT]` = credible, current, sourced • `[CONTEXTUAL FACT]` = stable background • `[LIKELY INFERENCE]` = reasonable conclusion, not official • `[NEGOTIATION STRATEGY]` = advised move • `[CONTESTED CLAIM]` = disputed or source-dependent • `[UNVERIFIED — DO NOT USE IN COMMITTEE]` = insufficient evidence. **Never blur these.**
+
+---
+
+---
+
+# PART 22 — EVIDENCE LEDGER (CORE CLAIMS — SOURCE, DATE, LABEL)
+
+| ID | Claim | Label | Source (Tier 1 unless noted) |
+|---|---|---|---|
+| E1 | Morocco voted in favour of A/RES/80/57 (1 Dec 2025; 164–6–7) | VERIFIED FACT | UN Press Release GA/12736 (1 Dec 2025); Automated Decision Research Morocco tracker (updated 2026) |
+| E2 | 80/57 no-votes: Belarus, Burundi, DPRK, Israel, Russia, US; abstain: Argentina, China, Iran, Nicaragua, Poland, Saudi Arabia, Türkiye | VERIFIED FACT | UN Press Release GA/12736 |
+| E3 | First Committee vote on A/C.1/80/L.41 (6 Nov 2025): 156–5–8 | VERIFIED FACT | Stop Killer Robots (6 Nov 2025); IMUNA DISEC brief |
+| E4 | A/RES/79/62 (2 Dec 2024): 166–3–15; against Belarus, DPRK, Russia | VERIFIED FACT | UN Press Release GA/12660; Arms Control Today (Dec 2024) |
+| E5 | A/RES/78/241 (22 Dec 2023): 152–4–11; against Belarus, India, Mali, Russia; abstain incl. China, Iran, Israel, Türkiye, Saudi Arabia, UAE | VERIFIED FACT | HRW (3 Jan 2024); Automated Decision Research |
+| E6 | Morocco voted yes on 78/241 and on draft L.77 (79/62) | VERIFIED FACT | Automated Decision Research Morocco page (Nov 2024, updated 2026) |
+| E7 | Morocco 2018 CCW statement supporting legally binding instrument | VERIFIED FACT | Morocco statement, CCW MSP, 22 Nov 2018 (via Automated Decision Research) |
+| E8 | African Group GGE statement 4 Mar 2026 (Sierra Leone): ready/committed; supports negotiations on rolling text basis — incl. Morocco | VERIFIED FACT | UN Web TV recording (4 Mar 2026) via Automated Decision Research |
+| E9 | African Group CCW MSP Nov 2023: "direct, meaningful control and supervision of humans at all times"; supports LBI | VERIFIED FACT | Nigeria statement for African Group, CCW MSP Nov 2023 (UNODA) |
+| E10 | Morocco endorsed US Political Declaration on Responsible Military Use of AI and Autonomy | VERIFIED FACT | US State Department (endorsers list, Nov 2024); Moroccan press (14 Nov 2023) |
+| E11 | Morocco endorsed Vienna 2024 Chair's Summary | VERIFIED FACT | Austrian MFA (BMEIA) list of associated states; Automated Decision Research |
+| E12 | Morocco endorsed REAIM 2026 Pathways to Action (4–5 Feb 2026, A Coruña; 35 states) | VERIFIED FACT | Morocco World News (6 Feb 2026) |
+| E13 | Morocco NOT among 42-state Sept 2025 GGE joint statement; NOT a Paris Declaration (Feb 2025) signatory | VERIFIED FACT | Stop Killer Robots (full list); Élysée Palace declaration page (27 signatories) |
+| E14 | SG report A/79/88 (1 Jul 2024); two-tier approach; 58 state submissions | VERIFIED FACT | UN Digital Library record 4059475; UNODA |
+| E15 | GGE sessions 2026: 2–6 Mar; 31 Aug–4 Sep; 7th Review Conference 16–20 Nov 2026 | VERIFIED FACT | UNODA meetings portal; dig.watch GGE tracker (Aug 2026) |
+| E16 | Rolling-text characterization of LAWS (identify/select/engage without human operator) | VERIFIED FACT | GGE rolling text (May 2025 rev.; Dec 2025 rev.) via Stop Killer Robots/UNODA |
+| E17 | Pact for the Future (A/RES/79/1): "advance with urgency discussions" — no LBI commitment, no deadline | VERIFIED FACT | Spoiler Alert analysis (9 Aug 2024); Stop Killer Robots (5 Nov 2024) |
+| E18 | SG New Agenda for Peace + SG–ICRC joint call (5 Oct 2023): conclude LBI by 2026 | VERIFIED FACT | UNODA; Stop Killer Robots |
+| E19 | NY informal consultations 12–13 May 2025; 96 states | VERIFIED FACT | Stop Killer Robots (6 Nov 2025); SKR policy brief (May 2025) |
+| E20 | Morocco 79/239 submission: human primacy; non-state actor AI drone threat; IHL applies; border surveillance as opportunity | VERIFIED FACT | Kingdom of Morocco contribution, UNODA docs (2025) |
+| E21 | Morocco First Committee general debate speech 15 Oct 2025 (Rabat AI+CWC conference Oct 2024; OPCW TWG-AI Jan 2025; COPUOS 68 chair; ME WMDFZ presidency Nov 2025) | VERIFIED FACT | eStatements.un.org (Morocco, 15 Oct 2025) |
+| E22 | Morocco drone fleet: TB2 (2021), Akıncı (2025), Wing Loong II, TB-001K (reported), BlueBird; Baykar Morocco facility (announced Jan 2025) | VERIFIED FACT / CONTESTED (fleet size 13 vs 19) | Military.africa (30 Jan 2025); Zona Militar (9 Mar 2025); Mundoamérica (9 Jun 2026); Global Military |
+| E23 | Morocco AI strategy "AI Made in Morocco" (12 Jan 2026): +$10B GDP, 50k jobs, Al-Jazari Institutes, Mistral AI; AI Readiness 87th (+14) | VERIFIED FACT | Hespress (12 Jan 2026); Ecofin Agency (13 Jan 2026) |
+| E24 | ICRC March 2026 position: prohibit unpredictable + anti-personnel AWS; regulate others | VERIFIED FACT | ICRC position paper (Mar 2026) |
+| E25 | Morocco GDP ~US$170B (2025) | VERIFIED FACT | Reuters via Hespress (Jan 2026) |
+| E26 | 42-state statement list (Sept 2025) | VERIFIED FACT | Stop Killer Robots (8 Sept 2025), full list |
+| E27 | >70 states reportedly support moving to negotiations (Mar 2026) | CONTESTED CLAIM (observer-reported) | Wikipedia GGE page citing campaign observers (Apr 2026) |
+| E28 | 2025 military-AI resolution (L.46): 167–5–5; Geneva informal exchanges 15–17 Jun 2026 | VERIFIED FACT | UN Press Release GA/12736; Stop Killer Robots (Jun 2026) |
+| E29 | 2025 nuclear-C2 AI resolution (L.56): 118–9–44; human control demanded | VERIFIED FACT | UN Press Release GA/12736 |
+
+---
