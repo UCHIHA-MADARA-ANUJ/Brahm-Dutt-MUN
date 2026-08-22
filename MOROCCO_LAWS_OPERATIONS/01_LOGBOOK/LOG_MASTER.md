@@ -219,3 +219,10 @@
 - **Key decisions:** Archetype 9 (silent majority ~50-60 undecided small states) = the vote-count win condition; signatory sweep target raised to 25+; Pakistan elevated to sponsor slate; Iran = don't court publicly, counter via NAM line; Argentina never counted as yes.
 - **Artifacts:** FULL_ROOM_DOMINANCE_MATRIX.md + ledger E89–E93.
 - **Next actions:** mock debate; memorize GSL + number bank + 3 sentences; sleep ≥6h. Commit+push this session.
+
+### [2026-08-22] Session 14 — GSL WEAPONIZED (delivery markup + targeting doctrine)
+- **Status:** ✅ COMPLETE
+- **Work done:** Rebuilt the final GSL (~212 words / 90s) with full delivery markup: volume map (one 🔊 moment: "Six."), pause architecture, eye-targeting on blocker seats, slow/quiet close. Integrated Session-12 battlefield intel (Ukraine swarm line, honestly labeled "reports describe"). Codified targeting doctrine: attack the RECORD, never the delegate — recorded votes as legal weapons. Added 60s emergency cut + after-speech protocol (no RoR bait; bury in first mod).
+- **Key decisions:** exactly ONE near-shout per GSL; aggression = pauses + eye contact + verified numbers; "a pen for every delegation" close converts aggression into leadership frame.
+- **Artifacts:** `06_SPEECHES/GSL_FINAL_WEAPONIZED.md` (supersedes RETURN_PACK Part A as the delivery version).
+- **Next actions:** user rehearses 3× aloud with timer tonight; mock debate on request; sleep ≥6h.
