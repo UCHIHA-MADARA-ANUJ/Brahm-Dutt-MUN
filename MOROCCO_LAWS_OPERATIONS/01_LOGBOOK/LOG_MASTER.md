@@ -180,3 +180,16 @@
 - **Key decisions:** "three resolutions → the fourth step" narrative; two-tier = "in the Assembly's own resolutions, twice"; criminal-law element from 79/62 = accountability anchor; OP9 = "continuation of a commitment this body already made."
 - **Artifacts:** RESOLUTION_ANCESTRY.md, EVIDENCE_LEDGER E69–E72.
 - **Next actions:** awaiting user return; final mock debate; LIVE BRIEF sweep before sleep.
+
+
+### [2026-08-22] Session 11 — ROLLING TEXT VERBATIM + ARAB/OIC BLOC + LEGENDARY QUOTES
+- **Status:** ✅ COMPLETE
+- **Work done:**
+  - Captured GGE rolling text Box III VERBATIM (the actual draft provisions) + WP.4's definition of "context-appropriate human judgement and control" + the CRITICAL clarification that it "does not imply direct control at all times... as this is not required by IHL" (kills the "you ban all autonomy" attack).
+  - Captured South Africa/Germany/ICRC/Ireland judgment-vs-control distinctions + UK's concession ("human control is essential to ensure compliance").
+  - Captured Arab Group verbatim (Qatar, Mar 2023): "we must limit and outlaw the utilisation of such systems"; called for binding instrument. Built individual Arab/Islamic state position table (Qatar ally, Egypt two-tier twin, Saudi swing, UAE positive trajectory, Tunisia Paris signatory).
+  - Captured Heyns 2013 verbatim + First Committee "algorithm must not be in full control" line + deployment table.
+- **Artifacts:** GGE_ROLLING_TEXT_VERBATIM.md, BLOC_STATEMENTS_ARAB_OIC.md, LEGENDARY_QUOTES.md, EVIDENCE_LEDGER E73–E78.
+- **Key decisions:** OP1/OP6 upgraded with Box III verbatim language; WP.4 = OP4 definitional spine; Arab-lane recruitment scripts (Saudi/UAE/Qatar/Tunisia); Heyns = African pride + maximalist courtship quote.
+- **Next actions:** awaiting user return (mod topics + bloc state) → tailored speeches → mock debate → LIVE BRIEF sweep.
+
