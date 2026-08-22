@@ -226,3 +226,9 @@
 - **Key decisions:** exactly ONE near-shout per GSL; aggression = pauses + eye contact + verified numbers; "a pen for every delegation" close converts aggression into leadership frame.
 - **Artifacts:** `06_SPEECHES/GSL_FINAL_WEAPONIZED.md` (supersedes RETURN_PACK Part A as the delivery version).
 - **Next actions:** user rehearses 3× aloud with timer tonight; mock debate on request; sleep ≥6h.
+
+### [2026-08-22] Session 15 — GSL REBUILT AS COLD OPEN (post-mortem of 1/10 GSL score)
+- **Status:** ✅ COMPLETE
+- **Critical user intel:** previous MUN GSL scored 1/10 with protocol-template speech. Diagnosis: this circuit's dais punishes generic diplomatic openings. Cure: cold-open hook, no greeting, aggression via facts/pauses, question ending.
+- **Work done:** `06_SPEECHES/GSL_FINAL_COLD_OPEN.md` — supersedes GSL_FINAL_WEAPONIZED as the committee version. Cold open ("Somewhere tonight, a machine is deciding..."), $550 stat, operator flex, 164-vs-SIX strike ("a veto on humanity's survival instinct"), mandate-or-conference ask, "Who signs?" close. Delivery map (pre-speech silence, one shout, quiet menace, drumroll, whisper close) + rubric mapping + chair-proof legality check + timing guide.
+- **Next actions:** rehearse 3× with timer; mock debate on request; sleep.
