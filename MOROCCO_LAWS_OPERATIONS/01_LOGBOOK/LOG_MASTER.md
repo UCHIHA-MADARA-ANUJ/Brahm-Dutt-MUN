@@ -120,3 +120,17 @@
 - **Decisions:** Position paper drafted for submission (targets PP score ≥7); OP9 upgraded with AU Continental AI Strategy language; Ottawa attack preempted.
 - **Open flags remaining:** Morocco ATT ratification year (UNVERIFIED — don't cite); TPNW status (don't cite); Morocco individual GGE statements 2024–26 (treat African Group statements as national).
 - **Next actions:** mock debate drill tonight → memorize opening speech + number bank → final LIVE BRIEF sweep → sleep.
+
+### [2026-08-22] Session 6 — UN VERBATIM LANGUAGE + RIVAL TEXT PREP + POI BANK + PROCEDURE SHEET
+- **Status:** ✅ COMPLETE
+- **Work done:**
+  - Captured FULL TEXT of A/RES/80/57 (all preambular + operative, via documents.un.org PDF) — the resolution's exact ancestor. Found: the Assembly's own "two-tier approach of prohibitions and regulations" phrase; capacity-building/digital-divide language; "with a view to future negotiations" OP3.
+  - Captured Morocco's own 79/239 conclusion verbatim ("fog of war", "escalation guardians", "compressed reaction time", "deprive malicious actors", "conceived in the context of human decision-making") — Morocco's doctrine in its own words for speeches.
+  - Captured US EoV ("the time is not right...") and Russia EoV ("undermine the CCW", "CCW is the right forum", "definition... question marks") — preempted verbatim.
+  - **Correction:** Morocco is NOT an ATT party (resolves prior UNVERIFIED flag) — OP8 framing fixed: no ATT membership claims; "support the norm, disclose, universalize" defense covers both Ottawa + ATT gaps.
+  - New verified number: 130 states support negotiating a legally binding treaty (SKR, Mar 2026).
+  - Built: RESOLUTION_LANGUAGE_BANK.md (verbatim borrow + debate lines), RIVAL_TEXTS_AND_REBUTTALS.md (4 rival archetypes + merger sequence + quote wall), POI_BANK_20.md (20 targeted questions + delivery rules), PROCEDURE_QUICK_SHEET.md (school-MUN toolbox, speaking-time math, voting, game plan).
+- **Key decisions:** resolution OPs upgraded to inherit 80/57 verbatim language where possible; US/Russia quote wall for rebuttals; POIs deployed 2-3/session max; day-1 procedural flex = confirm RoP with chair.
+- **Artifacts:** 4 files + EVIDENCE_LEDGER E47–E54.
+- **Open flags:** none blocking. (South Africa 42-group membership contested — flagged, not asserted.)
+- **Next actions:** MOCK DEBATE tonight (play US/Algeria/Türkiye/maximalist/Russia vs delegate) → memorize number bank + opening speech + top 3 defenses → sleep ≥6h.

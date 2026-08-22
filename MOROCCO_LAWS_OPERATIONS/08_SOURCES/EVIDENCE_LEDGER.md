@@ -63,3 +63,12 @@
 | E44 | Ukraine first autonomous-mode lethal quadcopter strikes (2024, battlefield experiment) | VERIFIED FACT (reporting) | geopolemic (11 Jun 2026) |
 | E45 | US Replicator (thousands of autonomous drones by 2026); China UAV mothership; Russia V2U AI drones in Ukraine; SGR-A1 sentry | VERIFIED FACT | Cybernews (21 Sep 2025) |
 | E46 | Anthropic/OpenAI–US DoD disputes over fully autonomous weapons terms-of-use (early 2026) | VERIFIED FACT | WILPF CCW Report Vol.14 No.2 (11 Mar 2026) |
+
+| E47 | A/RES/80/57 FULL TEXT captured (all PPs + OPs): includes two-tier mention, capacity-building language, "with a view to future negotiations" OP3 | VERIFIED FACT | documents.un.org A/RES/80/57 (5 Dec 2025) |
+| E48 | Morocco NOT an ATT party (non-party list incl. Algeria, Egypt, Kenya, Ethiopia; 113-118 parties) | VERIFIED FACT | thearmstradetreaty.org treaty status |
+| E49 | Morocco 79/239 full conclusion captured: "deprive malicious actors of the means to abuse AI", "fog of war" line, "escalation guardians", "compressed reaction time", "conceived in the context of human decision-making", "AI must not become a new source of division or destruction" | VERIFIED FACT | Morocco submission 79/239 (UNODA, full text chunks 10-11) |
+| E50 | 130 states openly support negotiating a legally binding treaty (Mar 2026) | VERIFIED FACT | SKR CCW paper (3 Mar 2026) |
+| E51 | South Africa possibly among 42-state group per ICT4Peace list; NOT in SKR's confirmed list | CONTESTED CLAIM | ICT4Peace (6 Oct 2025) vs SKR (8 Sep 2025) — don't assert either way; approach as pro-LBI |
+| E52 | US EoV (2023): "the time is not right to begin negotiating a legally binding instrument"; US "does not agree with elaborating a new standard of sufficient human control" | VERIFIED FACT | US EoV via Automated Decision Research USA page |
+| E53 | Russia EoV (2023): text "seeks to undermine what was created under the CCW, particularly the GGE"; "CCW is the right forum"; "lack of agreement on the definition... increases question marks" | VERIFIED FACT | UN Press Release GADIS/3731 (1 Nov 2023) |
+| E54 | GGE chair Apr 2026 report: supervision = chain of command, anticipation of effects, fixed mission parameters, deactivation, defined perimeter | VERIFIED FACT | JURIST (29 Jul 2026) citing chair report |
