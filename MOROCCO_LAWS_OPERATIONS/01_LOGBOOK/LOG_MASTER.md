@@ -232,3 +232,10 @@
 - **Critical user intel:** previous MUN GSL scored 1/10 with protocol-template speech. Diagnosis: this circuit's dais punishes generic diplomatic openings. Cure: cold-open hook, no greeting, aggression via facts/pauses, question ending.
 - **Work done:** `06_SPEECHES/GSL_FINAL_COLD_OPEN.md` — supersedes GSL_FINAL_WEAPONIZED as the committee version. Cold open ("Somewhere tonight, a machine is deciding..."), $550 stat, operator flex, 164-vs-SIX strike ("a veto on humanity's survival instinct"), mandate-or-conference ask, "Who signs?" close. Delivery map (pre-speech silence, one shout, quiet menace, drumroll, whisper close) + rubric mapping + chair-proof legality check + timing guide.
 - **Next actions:** rehearse 3× with timer; mock debate on request; sleep.
+
+### [2026-08-22] Session 15-B — GSL v2: KARGU SPINE (accuracy hardening after user challenge)
+- **Status:** ✅ COMPLETE
+- **Trigger:** User demanded zero factual inaccuracies + Kargu-2 in the speech. Re-verified S/2021/229 verbatim ("hunted down and remotely engaged", "fire, forget and find"). v1's spine (contested Ukraine report) demoted; UN-documented Kargu-2 promoted to cold open.
+- **Precision rules locked:** say "hunted", never "killed" (Panel confirms no deaths); name the machine, never the maker (STM=Turkish — Türkiye is the recruitment prize); pre-loaded POI counter-answers for mode-ambiguity and casualty challenges.
+- **Artifacts:** GSL_FINAL_COLD_OPEN.md v2 + ledger E94.
+- **Next actions:** rehearse 3× with timer; drill the three POI counters aloud; sleep.

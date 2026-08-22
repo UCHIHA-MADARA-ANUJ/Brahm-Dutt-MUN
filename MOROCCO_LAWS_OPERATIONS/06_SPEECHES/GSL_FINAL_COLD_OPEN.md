@@ -1,54 +1,59 @@
-# 🔥 GSL FINAL — COLD OPEN VERSION (SESSION 15)
-**Why this version exists:** delegate scored 1/10 at previous MUN with a protocol-template GSL. Diagnosis: dais punishes generic openings ("honorable chair, distinguished delegates, the international community must come together..."). Cure: cold-open hook, aggression throughout, zero filler. ~230 words = 90s at pace.
+# 🔥 GSL FINAL — COLD OPEN v2, KARGU-SPINE (SESSION 15-B)
+**Change from v1:** spine fact switched from the contested Ukraine report to the UN-DOCUMENTED Kargu-2 incident (S/2021/229) — unkillable in cross-fire. Ukraine demoted to escalation line with honest labeling. Every claim now chair-proof. ~228 words = 90s.
+
+## ⚠️ STRATEGIC CAUTION — KARGU-2 IS TURKISH
+Kargu-2 is made by STM (Türkiye) — your drone supplier and your #1 recruitment prize. RULE: name the MACHINE, never the maker, never the deployer. Say "a loitering munition in Libya" / "the Kargu-2". If anyone says "that's a Turkish drone" → "The nationality of the machine is irrelevant; the absence of the human is the point. Morocco flies Turkish drones proudly — under human command. That is exactly the line our convention draws."
 
 ---
 
 ## THE SPEECH
 
-**[COLD OPEN — walk up, plant feet, 2-second silence BEFORE you speak. Then, at 85% volume, no greeting:]**
+**[COLD OPEN — walk up, plant feet, 2 seconds of SILENCE. Then, 85% volume, no greeting:]**
 
-Somewhere tonight, a machine is deciding whether a human being deserves to die. ⏸
+March 2020. Libya. A drone hunted human beings — and the United Nations wrote it down. ⏸
 
-Not in a movie. Not in 2050. **This month** — reports from Ukraine describe drone swarms that select their targets and kill them with no human decision at all. A five-hundred-and-fifty-dollar software module now decides who lives. ⏸ 🔉 And there is no law against it. **None.**
+Its own Panel of Experts reported that retreating soldiers were 🐢 *"hunted down and remotely engaged"* by a lethal autonomous weapon — programmed to attack **without** an operator. The report's exact words: ⏸ 🔉 *"a true fire, forget and find capability."* ⏸ Fire. Forget. Find. **Six years ago.** And still — no law.
 
-**[SHIFT — identity, fast and proud:]**
+**[IDENTITY — fast and proud:]**
 
-Morocco flies armed drones. Morocco builds them. And Morocco stands here to say: **regulate what you operate.** If the operators can demand rules, what excuse does anyone else have?
+Morocco flies armed drones. Morocco builds them. And Morocco stands here demanding: **regulate what you operate.** If the operators demand rules, what excuse does anyone else have?
 
-**[THE STRIKE — build the numbers like a drumroll:]**
+**[THE STRIKE — drumroll the numbers:]**
 
-This Assembly already answered this question. 🐢 **One hundred sixty-four states** voted for this instrument in December. One hundred thirty demand a treaty. Africa said in March: *ready and committed.* ⏸
+This Assembly has answered — three years in a row. 🐢 **One hundred sixty-four states** in December. One hundred thirty demanding a treaty. Africa in March: *ready and committed.*
 
-👁 [US/Russia seats] Six states said no. 🔊 **SIX.** ⏸ Six governments are holding one hundred sixty-four hostage — and calling it *consensus.* We call it what it is: 🐢 a veto on humanity's survival instinct.
+👁 [US/Russia seats] And six states said no. 🔊 **SIX.** ⏸ Six governments holding one hundred sixty-four hostage — and calling it consensus. Today, autonomy is a **five-hundred-fifty-dollar software module**. While the six stall, the price of a killing machine falls.
 
-**[THE TEXT — drafter mode, rapid and sharp:]**
+**[THE TEXT — drafter mode:]**
 
-So Morocco brings the endgame. A negotiation mandate in November — or this Assembly convenes its own conference in 2027. Prohibit machines that kill without meaningful human control. Regulate everything else. And Africa writes this law **with** you, not after you.
+So Morocco brings the endgame. A negotiation mandate at November's Review Conference — or this Assembly convenes its own conference in 2027. Prohibit machines that select and engage targets without meaningful human control. Regulate all others. And Africa writes this law **with** you — not after you.
 
-**[THE CLOSE — drop to near-quiet. Slow. Let it land:]**
+**[THE CLOSE — near-quiet, slow:]**
 
-🔉 To the six: your time expired. 🐢 To everyone else: Morocco brought a calendar... and a pen. ⏸ Who signs?
+🔉 The first machine hunt is already in a UN document. 🐢 The question is whether the law arrives before the second. Morocco brought a calendar — and a pen. ⏸ **Who signs?**
 
 ---
 
-## DELIVERY MAP (5 rules)
-1. **The pre-speech silence** — 2 seconds standing quiet before word one. The room's attention snaps to you BEFORE you speak. No one else will dare do this.
-2. **"SIX."** — the one 95% hit. Hold the pause after. Eyes on blockers.
-3. **"None."** — second-biggest hit, but QUIET not loud. Menace, not volume.
-4. **Drumroll the numbers** — 164... 130... "ready and committed"... each slower and heavier.
-5. **"Who signs?"** — end on the question, near-whisper, eyes sweeping the whole room. Then sit. Don't say "thank you" loudly — either skip it or murmur it as you turn. The question hanging in the air IS the ending.
+## FACT ARMOR (every strike, sourced — if challenged, you WIN)
+| Line | Source | Status |
+|---|---|---|
+| "hunted down and remotely engaged" / "fire, forget and find" | UN Panel of Experts on Libya, S/2021/229 (March 2021), re March 2020 incident — VERBATIM | VERIFIED (E42/E94) |
+| Report does NOT confirm deaths | Same document — so we say "hunted", never "killed" | Precision = armor |
+| 164 (80/57, Dec 2025) • 130 states (SKR Mar 2026) • African Group 4 Mar 2026 | E1, E50, E8 | VERIFIED |
+| $550 autonomy module | Forbes, 19 Aug 2026 (E82) | VERIFIED |
+| Six no-votes: Belarus, Burundi, DPRK, Israel, Russia, US | GA/12736 (E2) | VERIFIED |
 
-## WHY THIS SCORES (rubric mapping)
-- **Hook (content/originality):** cold open + machine-deciding-death image + $550 stat = nobody else in the room has this.
-- **Policy accuracy:** every number verified (E1, E50, E8, E80, E82) — if challenged, you WANT the challenge.
-- **Country authenticity:** operator identity front and center — the one flex only Morocco has.
-- **Concrete ask:** mandate-or-conference + two-tier + Africa co-authorship = the guide's own questions answered.
-- **Temperament:** aggression through facts and pauses; exactly one shout; ice-cold close. Dais-safe, award-shaped.
+## DELIVERY MAP (unchanged, 5 rules)
+1. 2-second silence BEFORE word one.
+2. "**SIX.**" = the only 95% shout. Eyes on blockers. Hold the pause.
+3. "Fire. Forget. Find." = three separate words, quiet, one beat each. This is the horror moment — let it breathe.
+4. Drumroll 164 → 130 → "ready and committed", each heavier.
+5. "Who signs?" near-whisper, sweep the room, sit. No loud thank-you.
 
-## LEGALITY CHECK (chair-proof)
-- No delegate personally attacked. "The six" = a voting bloc on the public UN record.
-- Ukraine claim labeled "reports describe" — honest, unchallengeable.
-- No greeting is NOT a rules violation in GA format — it's a style choice. If YOUR chair demands protocol, bolt on a 1-second "Chair —" at the start and lose nothing.
+## IF CHALLENGED IN POI/CROSS (pre-loaded answers)
+- **"Did the Kargu-2 actually kill anyone?"** → "The Panel documented the hunt, not the body count — and a system with fire-forget-find capability does not need a confirmed casualty to prove the law is late. Would the delegate prefer we legislate after the massacre?"
+- **"That was manual mode, not autonomous."** → "The Panel of Experts classified it as a lethal autonomous weapons system programmed to attack without data connectivity to an operator. I am quoting document S/2021/229. Is the delegate contesting the UN's own record?"
+- **"Ukraine reports are unverified."** → correct, that's why they're not in this speech's spine. "Morocco cites the UN record. The delegate is welcome to explain why even the DOCUMENTED case has produced no law in six years."
 
 ## TIMING
-~230 words + 5 marked pauses = 88–93s. Rehearse 3× aloud tonight. If running long, cut "Not in a movie. Not in 2050." (saves 3s) — nothing else.
+~228 words + 6 marked pauses = 89–94s. If long: cut "three years in a row" (2s) or "While the six stall, the price of a killing machine falls" (4s) — nothing else.
