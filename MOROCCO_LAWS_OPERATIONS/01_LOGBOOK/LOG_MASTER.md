@@ -64,3 +64,30 @@
 1. Tell the new model to read, IN ORDER: `MOROCCO_LAWS_OPERATIONS/00_MASTER/MODEL_HANDOFF.md` → this logbook → `09_ROADMAP/RESEARCH_ROADMAP.md` → `00_MASTER/CCA_MUN_MOROCCO_LAWS_BRIEF_FULL.md` (or per-topic files as needed).
 2. The handoff doc contains the full context: mission, doctrine, verified facts, strategy, commands, rules, and the master prompt to paste.
 3. Never let the new model start from scratch. It must read before answering.
+
+---
+
+### [2026-08-22] Session 3 — T-MINUS 1 DAY: CRISIS RE-PLAN
+- **Status:** ⚠️ IN PROGRESS — CRITICAL TIMELINE CHANGE
+- **NEW CRITICAL FACT:** The MUN is **23–24 August 2026** — TOMORROW. All prep must compress to a 24-hour sprint.
+- **Timeline implication:** The GGE final session (31 Aug–4 Sep 2026) and CCW 7th RevCon (16–20 Nov 2026) are now AFTER the committee. They remain the *real-world decision points* you cite, but there will be NO post-GGE outcome to verify before committee. The freshest facts you can deploy: everything up to ~22 Aug 2026 (A/RES/80/57 Dec 2025, African Group 4 Mar 2026 statement, REAIM Feb 2026, June 2026 Geneva military-AI exchanges).
+- **BLOCKER:** User attached background guide (`UNGA.pdf`) but the file did NOT arrive in the workspace (checked /home/user/uploads, /tmp, entire FS — not found). Need user to re-upload or paste the text.
+- **Work done so far in session:** Vault re-planned for T-1 sprint; logbook updated.
+- **Next actions (P0, in order):**
+  1. GET background guide content (re-upload/paste) — controls committee name, RoP, expectations, country matrix.
+  2. Build T-1 SPRINT PLAN (research plan for next 24h) — see 09_ROADMAP.
+  3. Whatever the guide says: update mandate section, then speech drills + mock debate.
+  4. Commit + push after every block.
+
+### [2026-08-22] Session 3 — COMPLETED: Background guide processed (T-1 sprint)
+- **Status:** ✅ COMPLETE (blocker resolved — PDF pulled from GitHub main branch via git, 14 pages fully extracted & read)
+- **Key findings from guide:**
+  - Committee = UNGA (plenary-style; standard GA rules assumed; no RoP provided — confirm with chair day 1)
+  - Guide's agenda framing: "establishment of regulations regarding LAWS"; defines key terms chairs expect you to use
+  - **THE 9 QUESTIONS A RESOLUTION MUST ANSWER** (guide's own list) — built RESOLUTION_BLUEPRINT_v1 mapping every OP to a question
+  - Stakeholder frames are simplified (US/Russia/China/Pakistan/India/EU/ICRC/NGOs) — chairs likely expect these; our research is deeper, stay compatible
+  - Guide's suggested research areas = 100% already covered in vault
+- **Speech times confirmed by user:** GSL **90s**, mod **60s** → built 8x 60s mod speeches (MOD_CAUCUS_60S.md); opening speech already 90s ✅
+- **Artifacts created:** `02_COMMITTEE/BACKGROUND_GUIDE_ANALYSIS.md`, `07_RESOLUTION/RESOLUTION_BLUEPRINT_v1.md`, `06_SPEECHES/MOD_CAUCUS_60S.md`, RAPID_CARD T-1 addendum
+- **Decisions:** Resolution = 7 PPs + 11 OPs, FAMMS-audited, sponsor target (Morocco, Austria, Sierra Leone, Brazil, Mexico, Türkiye), package deal OP2+OP3, OP7 = US trap clause, OP9 = Global South price
+- **Remaining tonight (T-1 evening):** memorize number bank + 2 speeches; mock debate (US/Algeria/maximalist/Russia); commit+push final; sleep.

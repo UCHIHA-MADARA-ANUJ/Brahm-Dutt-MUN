@@ -42,3 +42,26 @@ Timeline 2027/28 • anti-personnel language strength • fallback clause condit
 A: draft wins → keep drafting. B: weak bloc → rebuild via African Group + NAM. C: US leads rival → "your 10 measures as our treaty chapter" + recorded votes. D: mandate OP fails → move fallback-conference amendment. E: attacked → 6-step, one right of reply max. F: crisis → moratorium OP on autonomous targeting. G: lose drafting → merge via your 3 packages / amendments. H: compromise → trade in order (timeline → anti-personnel strength → fallback → fund). I: ban-all text dominates → oppose as drafter of realistic alternative. J: deadlock → mediate with text in hand.
 
 ## ROLE: TECHNICAL DRAFTER + COALITION BROKER. NOT THE LOUDEST VOICE — THE ONE WITH THE TEXT.
+
+---
+
+## ⚡ T-1 ADDENDUM (23 Aug 2026) — FROM BACKGROUND GUIDE
+**SPEECH TIMES:** GSL = **90s** (~230 words) | MOD = **60s** (~150 words). Adjust all speeches.
+
+**THE 9 GUIDE QUESTIONS (resolution must answer ALL — our OP map):**
+1. Ban/regulate/permit → OP1 (two-tier: prohibit+regulate)
+2. Define meaningful human control → OP4
+3. Accountability → OP5
+4. Civilian protection under IHL → OP6
+5. Transparency for AI military dev → OP7
+6. Protect developing nations → OP9 (capacity building)
+7. UN role in monitoring → OP2+OP3+OP11 (RevCon mandate + fallback conference + SG report)
+8. Export controls → OP8
+9. Civilian AI innovation continues → OP10 (savings clause)
+
+**GUIDE'S STAKEHOLDER FRAMES (chairs expect these simplified versions):** US = IHL sufficient, no ban, "appropriate human judgment"; Russia = rejects binding; China = supports regulation talks, partial restrictions, no R&D limits; Pakistan = preemptive ban; India = gradual regulation + human control; EU = stronger regulation; ICRC = binding, prohibit IHL-incompatible; NGOs = full ban.
+→ Morocco's two-tier = the synthesis position between ALL of these. Say it that way.
+
+**RESOLUTION PACKAGE DEAL (remember):** OP2 (mandate) + OP3 (fallback conference) never traded alone. OP7 = US's own declaration content (your trap). OP9 = Global South's price (non-negotiable). OP10 = innovation camp's price (keeps China/US/India soft).
+
+**VAULT UPDATES THIS SESSION:** 02_COMMITTEE/BACKGROUND_GUIDE_ANALYSIS.md • 07_RESOLUTION/RESOLUTION_BLUEPRINT_v1.md • 06_SPEECHES/MOD_CAUCUS_60S.md
