@@ -65,3 +65,21 @@ A: draft wins → keep drafting. B: weak bloc → rebuild via African Group + NA
 **RESOLUTION PACKAGE DEAL (remember):** OP2 (mandate) + OP3 (fallback conference) never traded alone. OP7 = US's own declaration content (your trap). OP9 = Global South's price (non-negotiable). OP10 = innovation camp's price (keeps China/US/India soft).
 
 **VAULT UPDATES THIS SESSION:** 02_COMMITTEE/BACKGROUND_GUIDE_ANALYSIS.md • 07_RESOLUTION/RESOLUTION_BLUEPRINT_v1.md • 06_SPEECHES/MOD_CAUCUS_60S.md
+
+
+---
+
+## ⚡ SESSION-7 ADDENDUM (research sprint while user was away)
+**NEW VERIFIED FACTS:**
+- Military-AI resolution = **A/RES/80/58** (adopted 5 Dec 2025; draft L.46; 167–5–5). Morocco = CO-SPONSOR.
+- **130 states** support negotiating a legally binding treaty (Mar 2026). **>70 states** for binding measures (Jun 2026).
+- **US proposal at Mar 2026 GGE:** "good faith human judgement and care" instead of "human control" → counter: "a mood, not a mechanism."
+- **Maven AI targeting** reported in 2026 Middle East strikes (fresh example).
+- June 2026 Geneva informal exchanges (15–17 Jun, under 80/58): no consensus; Russia opposed binding; >70 states for binding.
+- Morocco general debate 2023 (Hilale): Sahara = "fabricated regional conflict"; autonomy plan; Algeria = the expected jab source; don't engage on substance.
+- ICRC Mar 2026: instrument must "not only restate existing IHL but clarify how it applies... articulating additional specific measures" → kills "IHL is enough."
+
+**FINAL GSL:** RETURN_PACK.md Part A (memorize; 90s; ~215 words).
+**MOD MACHINE:** RETURN_PACK.md Part B (15 topics → speeches) + Part C (4 new speeches: moratorium, anti-personnel, human rights, conflicts).
+**NUMBER BANK:** RETURN_PACK.md Part D. **QUOTE WALL:** Part E. **RETURN PROTOCOL:** Part F.
+**SOURCES:** SOURCES_MASTER.md (all links, organized).

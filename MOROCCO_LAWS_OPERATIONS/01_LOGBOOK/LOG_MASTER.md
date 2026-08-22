@@ -134,3 +134,17 @@
 - **Artifacts:** 4 files + EVIDENCE_LEDGER E47–E54.
 - **Open flags:** none blocking. (South Africa 42-group membership contested — flagged, not asserted.)
 - **Next actions:** MOCK DEBATE tonight (play US/Algeria/Türkiye/maximalist/Russia vs delegate) → memorize number bank + opening speech + top 3 defenses → sleep ≥6h.
+
+### [2026-08-22] Session 7 — RESEARCH SPRINT WHILE USER AWAY (1-hour block)
+- **Status:** ✅ COMPLETE
+- **Work done:**
+  - Verified Vienna 2024 (144 states, 29-30 Apr 2024) + RUSI progressive/conservative analysis.
+  - **CORRECTION/UPGRADE:** military-AI resolution = A/RES/80/58 (5 Dec 2025; draft L.46) — Morocco co-sponsor confirmed via UN Digital Library; added 80/58 to number bank.
+  - June 2026 Geneva informal exchanges (15–17 Jun, under 80/58): no consensus; Russia opposed binding; >70 states support advancing toward binding measures; Maven AI targeting used in 2026 Middle East strikes (Arms Control Today).
+  - US semantic play captured: "good faith human judgement and care" proposal at Mar 2026 GGE (WILPF CCW Report) + counter-line.
+  - ICRC Mar 2026 quote for "IHL is enough" rebuttal.
+  - Morocco general debate 2023 (Hilale) — Sahara framing + Algeria exchange context.
+  - No new August 2026 news requiring action (GGE final session 31 Aug–4 Sep is AFTER committee; 7th RevCon 16–20 Nov 2026).
+- **Artifacts:** RETURN_PACK.md (final GSL ~215 words + 15-topic mod machine + 4 new 60s speeches + locked number bank + quote wall + return protocol), SOURCES_MASTER.md (all links by topic), RAPID_CARD session-7 addendum.
+- **Key decisions:** GSL finalized & word-counted; mod topics pre-mapped 15 ways; live-response protocol defined (user tells me actual topics → I generate tailored speeches).
+- **Next actions:** WHEN USER RETURNS: receive actual mod topics/bloc state → generate tailored 60s speeches + POIs → final mock debate → sleep. Commit+push done this session.
