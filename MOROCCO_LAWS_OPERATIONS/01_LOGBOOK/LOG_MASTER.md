@@ -91,3 +91,19 @@
 - **Artifacts created:** `02_COMMITTEE/BACKGROUND_GUIDE_ANALYSIS.md`, `07_RESOLUTION/RESOLUTION_BLUEPRINT_v1.md`, `06_SPEECHES/MOD_CAUCUS_60S.md`, RAPID_CARD T-1 addendum
 - **Decisions:** Resolution = 7 PPs + 11 OPs, FAMMS-audited, sponsor target (Morocco, Austria, Sierra Leone, Brazil, Mexico, Türkiye), package deal OP2+OP3, OP7 = US trap clause, OP9 = Global South price
 - **Remaining tonight (T-1 evening):** memorize number bank + 2 speeches; mock debate (US/Algeria/maximalist/Russia); commit+push final; sleep.
+
+### [2026-08-22] Session 4 — Research sweep: opponent packs + Morocco extended dossier
+- **Status:** ✅ COMPLETE
+- **Work done:**
+  - 6 web-research batches: closed 2 open flags, opened no new ones.
+  - **Closed flags:** (1) Morocco CO-SPONSORED the 2025 military-AI resolution (L.46) — UN Digital Library record 4091374. (2) 79/62 (2024) abstention list fully verified (China, Estonia, Fiji, India, Iran, Israel, Latvia, Lithuania, Nicaragua, Poland, Romania, Saudi Arabia, Syria, Türkiye, Ukraine).
+  - **New verified intelligence:** Algeria (allied on substance — rolling text "solid basis", right-to-life framing); Türkiye (human-control language, no LBI declaration, abstains — the prize recruit); China (5 cumulative criteria, CCW-first, no R&D limits); India (yes 2025, prefers non-binding); Egypt (two-tier twin); Malawi (anti-personnel prohibition); Sierra Leone (co-sponsor, 42-group, African Group voice); Baykar Benslimane/Atlas Defence details + preemptive "platform vs weapon autonomy" defense.
+  - Built `05_STRATEGY/DELEGATION_POSITION_PACKS.md` (20 delegations: position, wants, price, approach script, attack/defense, recruitment verdict + unmod approach order + target sponsor/signatory math).
+  - Built `03_COUNTRY/COUNTRY_DOSSIER_EXTENDED.md` (L.46 co-sponsorship, Baykar defense, GGE footprint finding, honest gaps).
+  - Built `07_RESOLUTION/AMENDMENT_BANK.md` (4 friendly + 6 defensive amendments + swap table + procedural weapons).
+  - Updated EVIDENCE_LEDGER with E30–E39.
+- **Key decisions:**
+  - Egypt joins sponsor target list (two-tier twin); Türkiye is THE recruitment prize; Algeria approached via "we vote together, let's draft together" (disarms Western Sahara attacks); US/Russia/Israel = isolate via recorded votes.
+  - Preemptive defense built for "autonomous drones made in Morocco" attack (platform vs weapon autonomy distinction).
+- **Artifacts:** DELEGATION_POSITION_PACKS.md, COUNTRY_DOSSIER_EXTENDED.md, AMENDMENT_BANK.md, EVIDENCE_LEDGER E30–E39.
+- **Next actions:** mock debate drill (US/Algeria/maximalist/Russia/Türkiye roles) → memorize number bank + opening speech → final LIVE BRIEF sweep before bed → commit + push (this session) → sleep.

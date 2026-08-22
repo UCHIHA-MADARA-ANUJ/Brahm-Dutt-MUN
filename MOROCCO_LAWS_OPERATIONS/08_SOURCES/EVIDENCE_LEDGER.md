@@ -44,3 +44,14 @@
 | E29 | 2025 nuclear-C2 AI resolution (L.56): 118–9–44; human control demanded | VERIFIED FACT | UN Press Release GA/12736 |
 
 ---
+
+| E30 | Morocco CO-SPONSORED the 2025 military-AI resolution (L.46; adopted 167–5–5) — co-sponsor list incl. Morocco, Nigeria, Kenya, Pakistan, Türkiye, UK, France, Germany, ROK | VERIFIED FACT | UN Digital Library record 4091374 (Oct 2025) |
+| E31 | 79/62 (2024) abstainers FULL LIST: China, Estonia, Fiji, India, Iran, Israel, Latvia, Lithuania, Nicaragua, Poland, Romania, Saudi Arabia, Syria, Türkiye, Ukraine (166–3–15) | VERIFIED FACT | HRW (18 Dec 2024) |
+| E32 | Algeria: supports LBI; YES on 78/241, 79/62, 80/57; rolling text = "a solid basis" (GGE 2 Mar 2026); AWS "fundamentally challenge the right to life" (NY consultations May 2025) | VERIFIED FACT | Automated Decision Research Algeria page (30 Mar 2026); HRW (23 May 2025) |
+| E33 | Türkiye: human-control language strong ("development and use of AWS without meaningful human control... conflict with IHL"); has NOT declared support for LBI; abstains GA resolutions | VERIFIED FACT | Automated Decision Research Türkiye page; autonomousweapons.org |
+| E34 | China: two-tier; prohibits "unacceptable" systems via 5 cumulative criteria (lethal; full autonomy; no termination; indiscriminate; uncontrolled evolution); no R&D limits; CCW-first; abstains GA | VERIFIED FACT | Lieber Institute (4 May 2026); CRS (Feb 2025); dig.watch |
+| E35 | India: yes 2025 (not in no/abstain lists), abstained 2024, no 2023; prefers non-binding/CCW-consensus outcome | VERIFIED FACT | GA/12736; dig.watch (Aug 2026) |
+| E36 | Egypt: two-tier supporter (prohibit fully autonomous, regulate other military AI); human responsibility central | VERIFIED FACT | SKR Africa briefing (Feb 2026) |
+| E37 | Malawi: anti-personnel prohibition advocate ("autonomous weapons systems that target people must also be prohibited"); Sierra Leone: co-sponsored 80/57, 42-state group, spoke for African Group 4 Mar 2026 | VERIFIED FACT | SKR Africa briefing (Feb 2026); Automated Decision Research Sierra Leone page |
+| E38 | Baykar Morocco: Dec 2024 agreement; Official Bulletin No. 5857 (29 Jan 2025); Benslimane plant; Atlas Defence subsidiary (Rabat, 2.5M MAD); operational 2026; next-gen drones w/ "enhanced autonomy" (single-source, contested) | VERIFIED FACT (agreement/plant) / CONTESTED (autonomy specifics) | Yabiladi (27 Oct 2025; 20 Feb 2026); DefenseMirror (31 Jan 2025) |
+| E39 | GGE chair report (Apr 2026): "context-appropriate human judgement and control"; supervision = chain of command, anticipation of effects, fixed mission parameters, deactivation mechanisms, defined area of operation | VERIFIED FACT | JURIST commentary (29 Jul 2026) citing GGE chair report |
