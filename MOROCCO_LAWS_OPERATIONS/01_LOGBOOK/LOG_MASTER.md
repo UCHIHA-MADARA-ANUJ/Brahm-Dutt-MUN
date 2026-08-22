@@ -107,3 +107,16 @@
   - Preemptive defense built for "autonomous drones made in Morocco" attack (platform vs weapon autonomy distinction).
 - **Artifacts:** DELEGATION_POSITION_PACKS.md, COUNTRY_DOSSIER_EXTENDED.md, AMENDMENT_BANK.md, EVIDENCE_LEDGER E30–E39.
 - **Next actions:** mock debate drill (US/Algeria/maximalist/Russia/Türkiye roles) → memorize number bank + opening speech → final LIVE BRIEF sweep before bed → commit + push (this session) → sleep.
+
+### [2026-08-22] Session 5 — RUBRIC DIAGNOSIS + DEEP TREATY/TECH RESEARCH
+- **Status:** ✅ COMPLETE (1-hour research sprint delivered)
+- **The marking sheet decoded:** user's Japan marks (17.55) analyzed vs winners. Columns = PP/9, small cats, SPEECHES/10, MOD/1, UNMOD/0.5, ATTENDANCE/5, OVERALL/3-5. Japan lost on: speeches 5.1 vs 8.0+, unmod 0 (zero drafting/negotiation), overall 1.0 vs 3.0. Formula for tomorrow built into MARKING_RUBRIC_DECODED.md.
+- **Research completed:**
+  - CCW system deep (protocols I-V, Amended Protocol II, Protocol IV precedent, no verification mechanism, consensus flaw, 11 Guiding Principles, Draft Protocol VI, rolling text boxes + Apr 2026 chair report).
+  - **Ottawa finding (critical):** Morocco NOT an Ottawa party (with US/China/Russia/India/Pakistan/Egypt/Israel) BUT votes YES on mine-ban resolution every year 2018–2025, files voluntary Art.7 reports; official statement ties non-accession to Sahara dispute → preemptive defense built (Attack #1c).
+  - LAWS tech reality: Kargu-2 (Libya, UN Panel), Harpy/Harop, Lancet/V2U, Ukraine AI quadcopters (2024), Switchblade, SGR-A1, **Türkiye 20-KARGU swarm live-fire (27 Jan 2026)**, US Replicator, China mothership; spectrum framework (platform vs weapon autonomy).
+  - AU layer: Continental AI Strategy (Jul 2024), Kigali summit + $60bn Africa AI Fund → OP9 institutional anchors.
+- **Artifacts:** MARKING_RUBRIC_DECODED.md, TREATY_LEGAL_FRAMEWORK.md, LAWS_TECHNOLOGY_REALITY.md, MOROCCO_TREATY_VOTE_RECORD.md, POSITION_PAPER_MOROCCO.md (submission-ready PP), EVIDENCE_LEDGER E40–E46.
+- **Decisions:** Position paper drafted for submission (targets PP score ≥7); OP9 upgraded with AU Continental AI Strategy language; Ottawa attack preempted.
+- **Open flags remaining:** Morocco ATT ratification year (UNVERIFIED — don't cite); TPNW status (don't cite); Morocco individual GGE statements 2024–26 (treat African Group statements as national).
+- **Next actions:** mock debate drill tonight → memorize opening speech + number bank → final LIVE BRIEF sweep → sleep.
