@@ -210,3 +210,12 @@
 - **Artifacts:** 3 new files + EVIDENCE_LEDGER E79–E88 + this entry.
 - **Open flags:** Ukraine autonomous-kill report = CONTESTED (do not assert as fact); GGE final session outcome unknowable until 4 Sep (after committee — cite as "Geneva reconvenes in nine days").
 - **Next actions:** user returns with mod topics/bloc state → tailored speeches; final mock debate; memorize number bank + GSL; sleep ≥6h.
+
+### [2026-08-22] Session 13 — FULL-ROOM DOMINANCE MATRIX (conference matrix processed)
+- **Status:** ✅ COMPLETE
+- **Trigger:** User shared the conference's Public Eye Matrix (Google Sheets). UNGA committee = FULL UN membership (all member states; some seats still vacant). Sheet's UNGA tab not machine-readable in detail (viewer locks to legend tab), but user confirmed: ALL members.
+- **Strategic consequence:** With ~193 possible nameplates, per-country packs are impossible and unnecessary → built the 9-ARCHETYPE system: every delegation in the room maps to one archetype with a shared weakness + Morocco edge. Existing 20-delegation packs remain the deep layer for the majors.
+- **Work done:** research re-verification sweep (ADR/Statista 127-vs-12 tally; Switzerland "solid basis" Mar 2026; Iran abstention record; Lieber dualist-camp mapping; NZ interim-measures position) → built `05_STRATEGY/FULL_ROOM_DOMINANCE_MATRIX.md` (9 archetypes × weakness × kill shot/recruitment price + silent-majority harvesting plan + final sponsor slate + 3 memorized sentences).
+- **Key decisions:** Archetype 9 (silent majority ~50-60 undecided small states) = the vote-count win condition; signatory sweep target raised to 25+; Pakistan elevated to sponsor slate; Iran = don't court publicly, counter via NAM line; Argentina never counted as yes.
+- **Artifacts:** FULL_ROOM_DOMINANCE_MATRIX.md + ledger E89–E93.
+- **Next actions:** mock debate; memorize GSL + number bank + 3 sentences; sleep ≥6h. Commit+push this session.
