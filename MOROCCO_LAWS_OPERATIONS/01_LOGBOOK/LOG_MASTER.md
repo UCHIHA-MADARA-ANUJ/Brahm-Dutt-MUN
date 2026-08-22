@@ -193,3 +193,20 @@
 - **Key decisions:** OP1/OP6 upgraded with Box III verbatim language; WP.4 = OP4 definitional spine; Arab-lane recruitment scripts (Saudi/UAE/Qatar/Tunisia); Heyns = African pride + maximalist courtship quote.
 - **Next actions:** awaiting user return (mod topics + bloc state) → tailored speeches → mock debate → LIVE BRIEF sweep.
 
+
+### [2026-08-22] Session 12 — VAULT IMPORTED TO NEW BRANCH + FRESH RESEARCH SWEEP (T-1 EVENING)
+- **Status:** ✅ COMPLETE
+- **Branch note:** This session runs on `arena/01a02a51-brahm-dutt-mun` (new). Full vault imported from `arena/01a029bb-brahm-dutt-mun` via `git checkout` — nothing lost. All future commits go to the NEW branch.
+- **Work done (4 research sweeps, all fresh):**
+  1. **Battlefield autonomy (Aug 2026):** Ukraine "Terminator mode" report (SWJ, 17 Aug 2026 — contested, cite as unconfirmed); routine Swarmer AI swarms (WSJ); $550 autonomy module economics (Forbes, 19 Aug); 2M-hour combat footage portal; "flash crash" escalation frame → `04_TOPIC/BATTLEFIELD_AUTONOMY_AUG2026.md`.
+  2. **UNSC 2797 (31 Oct 2025):** Council endorsed Morocco's Autonomy Proposal as basis for Sahara negotiations, 11-0-3, Algeria didn't vote → upgraded Western Sahara defense with 3-level escalation ladder + honesty guardrails → `03_COUNTRY/WESTERN_SAHARA_SHIELD_2797.md`.
+  3. **Pre-RevCon state of play:** ~1/3 of 128 CCW HCPs declared rolling text negotiation-ready (Mar 2026); UNODA convergence/divergence map; China "maturity" stance; US/India non-binding preference re-verified → `04_TOPIC/PRE_REVCON_STATE_OF_PLAY.md`.
+  4. **Pakistan upgrade:** 2023 full-instrument working paper + 2024 Protocol VI elements + Ireland partnership on MHC elaboration → promote Pakistan from signatory to potential SPONSOR.
+- **Key decisions:**
+  - New evidence rule for Ukraine report: deploy as "reported, unconfirmed" — honesty as credibility play.
+  - $550 module = new proliferation centerpiece for OP8 (export controls) debates.
+  - 2797 used ONLY at escalation level needed; never claim sovereignty recognition.
+  - Pakistan approach script: "Your 2023 paper was ahead of the room. Help us give it a calendar."
+- **Artifacts:** 3 new files + EVIDENCE_LEDGER E79–E88 + this entry.
+- **Open flags:** Ukraine autonomous-kill report = CONTESTED (do not assert as fact); GGE final session outcome unknowable until 4 Sep (after committee — cite as "Geneva reconvenes in nine days").
+- **Next actions:** user returns with mod topics/bloc state → tailored speeches; final mock debate; memorize number bank + GSL; sleep ≥6h.
