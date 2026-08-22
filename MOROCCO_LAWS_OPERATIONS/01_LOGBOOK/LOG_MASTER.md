@@ -169,3 +169,14 @@
 - **Key decisions:** UK contradiction = POI #3 weapon; US 2024-yes→2025-no reversal = day-1 formal-debate strike; Saudi/Türkiye/Algeria private recruitment lanes; 12-state opposition list = "the minority has been ready never" argument.
 - **Artifacts:** 4 files + EVIDENCE_LEDGER E64–E68.
 - **Next actions:** awaiting user return (mod topics + bloc state) → generate tailored speeches; mock debate; final LIVE BRIEF sweep before sleep.
+
+### [2026-08-22] Session 10 — UN PRIMARY SCRAPE: FULL RESOLUTION ANCESTRY
+- **Status:** ✅ COMPLETE
+- **Work done:**
+  - Scraped full texts of ALL THREE GA resolutions on LAWS from documents.un.org: A/RES/78/241 (4 OPs), A/RES/79/62 (12 OPs), A/RES/80/57 (already had) — the complete legislative lineage.
+  - Captured SG's video message to the May 2025 NY consultations (un.org): "politically unacceptable, morally repugnant and should be banned by international law"; "human control over the use of force is essential"; "time is running out".
+  - Captured Austria's verbatim positions (2021–2025) incl. their exact two-tier definition and "still time to prevent humanity from crossing a very dangerous threshold."
+  - Built RESOLUTION_ANCESTRY.md: evolution table, verbatim evolutions (applicable law/two-tier/conferences/capacity), the "missing step" argument, the complete "IHL is enough" quote bank (8 sources), Austria/Brazil verbatim.
+- **Key decisions:** "three resolutions → the fourth step" narrative; two-tier = "in the Assembly's own resolutions, twice"; criminal-law element from 79/62 = accountability anchor; OP9 = "continuation of a commitment this body already made."
+- **Artifacts:** RESOLUTION_ANCESTRY.md, EVIDENCE_LEDGER E69–E72.
+- **Next actions:** awaiting user return; final mock debate; LIVE BRIEF sweep before sleep.
