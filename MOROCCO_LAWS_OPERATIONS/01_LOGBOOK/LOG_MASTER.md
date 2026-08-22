@@ -239,3 +239,10 @@
 - **Precision rules locked:** say "hunted", never "killed" (Panel confirms no deaths); name the machine, never the maker (STM=Turkish — Türkiye is the recruitment prize); pre-loaded POI counter-answers for mode-ambiguity and casualty challenges.
 - **Artifacts:** GSL_FINAL_COLD_OPEN.md v2 + ledger E94.
 - **Next actions:** rehearse 3× with timer; drill the three POI counters aloud; sleep.
+
+### [2026-08-22] Session 16 — AMMO BELT (50+ rounds) + GSL v3 SATURATION
+- **Status:** ✅ COMPLETE
+- **Trigger:** User demanded fact-saturation ("1000s like Kargu"). Built the full inventory + max-density GSL.
+- **Work done:** (1) `AMMO_BELT_MASTER.md` — 52 one-liner rounds in 6 categories (incidents timeline, proliferation economics, diplomatic record, hypocrisy exposure, law/principle, Morocco credentials) each with source + label + handling rules (Lavender = question-form only, IDF-denial noted; Kargu = machine-not-maker; Ukraine = reported/unrefuted). (2) `GSL_FINAL_SATURATION.md` — v3 GSL, 15 sourced facts in 90s (incident barrage cold open: Libya→Karabakh→Ukraine→Jan 2026 swarm; 152→166→164 crescendo; $550; SG "morally repugnant" close). Held-back list codified: never dump the belt — new fact every intervention across 2 days.
+- **Artifacts:** 2 files + ledger E95.
+- **Next actions:** rehearse v3 3× with timer; mock debate; sleep.
