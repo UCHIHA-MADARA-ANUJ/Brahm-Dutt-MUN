@@ -160,3 +160,12 @@
 - **Artifacts:** DOCUMENTS_VERBATIM.md, MOROCCO_DEFENSE_TECH_2026.md, EVIDENCE_LEDGER E55–E63.
 - **Key decisions:** defensive-autonomy spectrum = structural answer to all tech attacks; Saudi = priority swing conversion target in unmod; never cite Argentina as a likely yes.
 - **Next actions:** on user return — receive mod topics, generate tailored speeches; final mock debate; commit+push (done this session).
+
+### [2026-08-22] Session 9 — TOPIC MASTER MAP + FULL-MARKS PLAYBOOK + POI PLAYBOOK + TARGETING PLAN
+- **Status:** ✅ COMPLETE
+- **Work done:**
+  - Researched remaining delegations: UK (contradiction captured: "no gap in IHL" vs "meaningful human control across all use cases"), 12-state opposition tally (US/UK/Australia/Estonia/India/Israel/Japan/Poland/ROK/Russia/Belarus/DPRK; 127 support per ADR Jan 2026), Germany's strong human-control line, Canada's "human judgment + human control", academic bloc mapping (tech-solution vs no-regulation vs moderate).
+  - Built 4 files: TOPIC_MASTER_MAP.md (25 topics × angle × helps/hurts + motion sequence), FULL_MARKS_PLAYBOOK.md (rubric-by-rubric path to PP≥7/Speeches≥8/Mod≥0.85/Unmod≥0.4/Overall≥2.5), POI_PLAYBOOK.md (mechanics + 12 phase-targeted questions + scoring rules), TARGETING_PLAN.md (Morocco S/W matrix, opponent weakness map, strike sequence, identity lines).
+- **Key decisions:** UK contradiction = POI #3 weapon; US 2024-yes→2025-no reversal = day-1 formal-debate strike; Saudi/Türkiye/Algeria private recruitment lanes; 12-state opposition list = "the minority has been ready never" argument.
+- **Artifacts:** 4 files + EVIDENCE_LEDGER E64–E68.
+- **Next actions:** awaiting user return (mod topics + bloc state) → generate tailored speeches; mock debate; final LIVE BRIEF sweep before sleep.
