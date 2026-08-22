@@ -148,3 +148,15 @@
 - **Artifacts:** RETURN_PACK.md (final GSL ~215 words + 15-topic mod machine + 4 new 60s speeches + locked number bank + quote wall + return protocol), SOURCES_MASTER.md (all links by topic), RAPID_CARD session-7 addendum.
 - **Key decisions:** GSL finalized & word-counted; mod topics pre-mapped 15 ways; live-response protocol defined (user tells me actual topics → I generate tailored speeches).
 - **Next actions:** WHEN USER RETURNS: receive actual mod topics/bloc state → generate tailored 60s speeches + POIs → final mock debate → sleep. Commit+push done this session.
+
+### [2026-08-22] Session 8 — VERBATIM CORE DOCUMENTS + MOROCCO DEFENSE-TECH INTEL + SWING-STATE RESEARCH
+- **Status:** ✅ COMPLETE
+- **Work done:**
+  - Captured 11 Guiding Principles verbatim (a,b,c,d,i,j,k) from official France/ICRC UNODA submissions — consensus floor for debate.
+  - Captured NAM statements verbatim (2020/2021), SG "moral line" quote, Costa Rica's clean two-tier formulation, Vienna Chair's Summary lines, ICRC Mar 2026 verbatim, state tally 119/59/10.
+  - **NEW CRITICAL INTEL:** Morocco FAR + Harmattan AI partnership (Jun 2026) — autonomous DEFENSE systems incl. anti-drone, local manufacturing. Built Attack #1d preemptive defense (defensive-vs-offensive autonomy; Iron Dome argument).
+  - Found Kezzoute (2025) Moroccan academic study — authenticity asset for border/CT/maritime AWS framing.
+  - Swing-state intel: Saudi (HIGH moveability via Arab Group lane), Argentina (LOW — Milei abstention pattern), Poland (MEDIUM), South Africa (HIGH, core ally), Ukraine (HIGH — battlefield voice), Japan/ROK (MEDIUM).
+- **Artifacts:** DOCUMENTS_VERBATIM.md, MOROCCO_DEFENSE_TECH_2026.md, EVIDENCE_LEDGER E55–E63.
+- **Key decisions:** defensive-autonomy spectrum = structural answer to all tech attacks; Saudi = priority swing conversion target in unmod; never cite Argentina as a likely yes.
+- **Next actions:** on user return — receive mod topics, generate tailored speeches; final mock debate; commit+push (done this session).

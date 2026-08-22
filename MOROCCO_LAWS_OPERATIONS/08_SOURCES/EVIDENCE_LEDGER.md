@@ -72,3 +72,13 @@
 | E52 | US EoV (2023): "the time is not right to begin negotiating a legally binding instrument"; US "does not agree with elaborating a new standard of sufficient human control" | VERIFIED FACT | US EoV via Automated Decision Research USA page |
 | E53 | Russia EoV (2023): text "seeks to undermine what was created under the CCW, particularly the GGE"; "CCW is the right forum"; "lack of agreement on the definition... increases question marks" | VERIFIED FACT | UN Press Release GADIS/3731 (1 Nov 2023) |
 | E54 | GGE chair Apr 2026 report: supervision = chain of command, anticipation of effects, fixed mission parameters, deactivation, defined perimeter | VERIFIED FACT | JURIST (29 Jul 2026) citing chair report |
+
+| E55 | 11 Guiding Principles (2019) verbatim (a,b,c,d,i,j,k captured from official France/ICRC submissions) | VERIFIED FACT | UNODA France doc (10 Jun 2020); ICRC commentary (16 Jul 2020) |
+| E56 | NAM verbatim: "urgent need to pursue a legally binding instrument under the Convention that will contain prohibitions and regulations" (2021 working paper); "NAM is of the view..." (FC 2021) | VERIFIED FACT | Automated Decision Research (Iran/Saudi pages) |
+| E57 | SG report A/79/88: "The autonomous targeting of humans by machines is a moral line that must not be crossed"; "time is running out" | VERIFIED FACT | A/79/88 (Jul 2024) |
+| E58 | Costa Rica formulation (A/79/88 submission): prohibit targeting people; prohibit no-MHC; regulate others w/ area+duration limits; proliferation regulations | VERIFIED FACT | A/79/88 |
+| E59 | State tally: 119 support LBI / 59 undeclared / 10 oppose (Sep 2024); SKR: 130 by Mar 2026 | VERIFIED FACT | Future of Life Institute Diplomat's Guide (Sep 2024) |
+| E60 | Morocco FAR + Harmattan AI partnership (Jun 2026): autonomous DEFENSE systems incl. anti-drone; local manufacturing; OECD AI monitor flagged; no official FAR statement located | VERIFIED FACT (partnership reported) / CONTESTED (scope) | OECD AI incidents (18 Jun 2026); H24info |
+| E61 | Kezzoute (2025), "AWS Guided by Agentic AI: Lessons for Morocco's Security and Defense" — benefits for border/CT/maritime; warns on governance; recommends regional leadership in responsible AWS | VERIFIED FACT | Advances in Military Technology 20(2):327-348 (15 Jun 2025) |
+| E62 | Saudi Arabia: CCW party, Arab Group/NAM member, abstains LAWS res + voluntary military-AI res (2024); no declared anti-LBI position | VERIFIED FACT | Automated Decision Research Saudi page; GA/12736 |
+| E63 | Argentina: pro-LBI historically (2023 Lawfare list) but Milei-era abstention pattern on 2025 disarmament texts | VERIFIED FACT (list) / LIKELY INFERENCE (pattern) | Lawfare (18 Jan 2023); GA/12736 |
